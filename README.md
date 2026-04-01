@@ -15,11 +15,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gloomingtwilight&show_icons=true&locale=en&layout=compact" alt="gloomingtwilight" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gloomingtwilight&show_icons=true&locale=en" alt="gloomingtwilight" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gloomingtwilight&" alt="gloomingtwilight" /></p>
 
