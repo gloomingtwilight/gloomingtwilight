@@ -3,9 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gloomingtwilight&label=Profile%20views&color=0e75b6&style=flat" alt="gloomingtwilight" /> </p>
 
-- 🔭 I’m currently working on [pysparkle](https://github.com/gloomingtwilight/pysparkle)
 
-- 🌱 I’m currently learning **Python, Wed Dev, Data engineering**
+- 🌱 I’m currently learning ** Wed Dev, Data Engineering, Software Engineering**
 
 - 📫 How to reach me **dhandreabha1@gmail.com**
 
